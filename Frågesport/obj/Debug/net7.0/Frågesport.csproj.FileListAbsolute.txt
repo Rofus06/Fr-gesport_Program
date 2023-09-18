@@ -1,0 +1,14 @@
+c:\Users\filip.scherlund\Desktop\Test visual\Frågesport_Program\Frågesport\bin\Debug\net7.0\Frågesport.exe
+c:\Users\filip.scherlund\Desktop\Test visual\Frågesport_Program\Frågesport\bin\Debug\net7.0\Frågesport.deps.json
+c:\Users\filip.scherlund\Desktop\Test visual\Frågesport_Program\Frågesport\bin\Debug\net7.0\Frågesport.runtimeconfig.json
+c:\Users\filip.scherlund\Desktop\Test visual\Frågesport_Program\Frågesport\bin\Debug\net7.0\Frågesport.dll
+c:\Users\filip.scherlund\Desktop\Test visual\Frågesport_Program\Frågesport\bin\Debug\net7.0\Frågesport.pdb
+c:\Users\filip.scherlund\Desktop\Test visual\Frågesport_Program\Frågesport\obj\Debug\net7.0\Frågesport.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\filip.scherlund\Desktop\Test visual\Frågesport_Program\Frågesport\obj\Debug\net7.0\Frågesport.AssemblyInfoInputs.cache
+c:\Users\filip.scherlund\Desktop\Test visual\Frågesport_Program\Frågesport\obj\Debug\net7.0\Frågesport.AssemblyInfo.cs
+c:\Users\filip.scherlund\Desktop\Test visual\Frågesport_Program\Frågesport\obj\Debug\net7.0\Frågesport.csproj.CoreCompileInputs.cache
+c:\Users\filip.scherlund\Desktop\Test visual\Frågesport_Program\Frågesport\obj\Debug\net7.0\Frågesport.dll
+c:\Users\filip.scherlund\Desktop\Test visual\Frågesport_Program\Frågesport\obj\Debug\net7.0\refint\Frågesport.dll
+c:\Users\filip.scherlund\Desktop\Test visual\Frågesport_Program\Frågesport\obj\Debug\net7.0\Frågesport.pdb
+c:\Users\filip.scherlund\Desktop\Test visual\Frågesport_Program\Frågesport\obj\Debug\net7.0\Frågesport.genruntimeconfig.cache
+c:\Users\filip.scherlund\Desktop\Test visual\Frågesport_Program\Frågesport\obj\Debug\net7.0\ref\Frågesport.dll
